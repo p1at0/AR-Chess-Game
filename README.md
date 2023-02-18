@@ -1,5 +1,5 @@
 # AR Chess Game
- Chess game using RealityKit and assets created using Object Capture
+ Chess game using RealityKit and assets created using Object Capture on Swift
 
 <img src="https://user-images.githubusercontent.com/83715610/219872181-6b115d57-b16b-48fa-b8eb-0c10ee0716b4.PNG" width="200" height="350"><img src="https://user-images.githubusercontent.com/83715610/219872200-0e356fbb-a184-4313-8a01-7100893c35fa.PNG" width="200" height="350"><img src="https://user-images.githubusercontent.com/83715610/219872208-adfec2cf-cbf3-4898-b3e6-e854ca22dd00.PNG" width="200" height="350">
 
